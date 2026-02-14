@@ -14,14 +14,6 @@
   ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
   [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
 
-- Add mtime-based file rating cache to skip unchanged files
-  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
-  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
-
-- Add processing summary with cache, update, and skip stats
-  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
-  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
-
 
 ## v2.0.1 (2026-02-14)
 
