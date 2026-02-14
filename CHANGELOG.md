@@ -1,6 +1,20 @@
 # CHANGELOG
 
 
+## v2.2.0 (2026-02-14)
+
+### Documentation
+
+- Remove duplicate changelog entries
+  ([`f713ad0`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/f713ad09cedd5dc1960a4f5ebce1b323edb81973))
+
+### Features
+
+- Add environment variable overrides for plex config values
+  ([#25](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/25),
+  [`a39b6aa`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/a39b6aaaddb4c8bc61fe1e3a69e305cf8333b434))
+
+
 ## v2.1.0 (2026-02-14)
 
 ### Chores
@@ -11,6 +25,14 @@
 ### Features
 
 - Add mtime-based file rating cache and processing summary
+  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
+  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
+
+- Add mtime-based file rating cache to skip unchanged files
+  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
+  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
+
+- Add processing summary with cache, update, and skip stats
   ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
   [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
 
