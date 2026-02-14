@@ -1,6 +1,28 @@
 # CHANGELOG
 
 
+## v2.1.0 (2026-02-14)
+
+### Chores
+
+- Add `.venv/` to `.gitignore`
+  ([`a98aea8`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/a98aea8c61bc9d63adcc9f539ca7c235b1212675))
+
+### Features
+
+- Add mtime-based file rating cache and processing summary
+  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
+  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
+
+- Add mtime-based file rating cache to skip unchanged files
+  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
+  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
+
+- Add processing summary with cache, update, and skip stats
+  ([#24](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/24),
+  [`ef59466`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/ef5946691b35b0fda9f328e8ededc6498b0fd1bb))
+
+
 ## v2.0.1 (2026-02-14)
 
 ### Bug Fixes
