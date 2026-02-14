@@ -1,6 +1,15 @@
 # CHANGELOG
 
 
+## v2.0.1 (2026-02-14)
+
+### Bug Fixes
+
+- Handle OGG files with non-Vorbis codecs failing to sync
+  ([#23](https://github.com/rfgamaral/PlexMusicRatingsSync/pull/23),
+  [`fb6551d`](https://github.com/rfgamaral/PlexMusicRatingsSync/commit/fb6551d8c37170ada83af09cf954069aa94d8504))
+
+
 ## v2.0.0 (2025-12-29)
 
 ### Bug Fixes
